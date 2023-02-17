@@ -4,12 +4,15 @@
 
 ### AWS CLI installation
 
-i was able to install CLI using Linux on gitpod. I used my access keys and secret keys
+I was able to install CLI using Linux on gitpod. I used my access keys and secret keys
 
-###Create a Budget Alarm
+### Create a Budget Alarm
 
-###create a Billing alarm
-
-I created my budget and billing alarm from my aws management console. 
+I created my budget alarm for $1 because i cannot afford alot of spend at the moment.
 
 **Note to insert image**
+
+### Create a Billing larm
+
+**Note to insert image**
+

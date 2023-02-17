@@ -10,9 +10,29 @@ I was able to install CLI using Linux on gitpod. I used my access keys and secre
 
 I created my budget alarm from my aws management console for $1 because i cannot afford alot of spend at the moment.
 
-**Note to insert image**
+
 
 ### Create a Billing alarm
 
 I created a billing alarm from the aws managment console via Cloudwatch. I used the billing metric
+
+### Creating a user and IAM Role
+
+I created a user named BeemBeem via AWS IAM. I added this user to a group and gave IAM role and also added to a user group.
+
+## Stretch Homework
+
+### Setting MFA
+
+On both my Root account and IAM user account, I activated a virtual MFA token using Authy. Once i downloaded Authy,
+
+I was able to scan the QR code and got MFA tokens to enable me sign on to each accounts.
+
+### Lucid Conceptual Diagram and Napkin Design
+
+I was able to use Lucid chart to design the Architectural frame work of the Cruddur App. 
+
+I also sketched the skeletal framework on a napkin
+
+
 

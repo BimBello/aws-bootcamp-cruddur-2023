@@ -8,11 +8,11 @@ I was able to install CLI using Linux on gitpod. I used my access keys and secre
 
 ### Create a Budget Alarm
 
-I created my budget alarm for $1 because i cannot afford alot of spend at the moment.
+I created my budget alarm from my aws management console for $1 because i cannot afford alot of spend at the moment.
 
 **Note to insert image**
 
-### Create a Billing larm
+### Create a Billing alarm
 
-![ ](paste copied link)
+I created a billing alarm from the aws managment console via Cloudwatch. I used the billing metric
 

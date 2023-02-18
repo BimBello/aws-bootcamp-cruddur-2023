@@ -19,6 +19,8 @@ I created a billing alarm from the aws managment console via Cloudwatch. I used 
 
 ![Billing alarm email](assets/Billing_alarm_email.PNG)
 
+
+
 ### Creating a user and IAM Role
 
 I created a user named BeemBeem via AWS IAM. I added this user to a group and gave IAM role and also added to a user group.
